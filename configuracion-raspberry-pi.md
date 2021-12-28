@@ -79,7 +79,7 @@ Flags:               half thumb fastmult vfp edsp java tls
 
 ### Instalación de Docker CE
 
-Seguimos las intrucciones de la [documentación oficial de Docker](https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script) para instalar Docker CE en Raspbian (la recomendación es usar el *script* de conveniencia proporcionado:
+Seguimos las intrucciones de la [documentación oficial de Docker](https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script) para instalar Docker CE en Raspbian (la recomendación es usar el *script* de conveniencia proporcionado):
 
 ```bash
 curl -fsSL https://get.docker.com -o get-docker.sh
