@@ -28,7 +28,7 @@ Host rpi31
   IdentityFile ~/.ssh/rpi_key
   IdentitiesOnly yes
 Host rpi32
-  Hostname 192.168.1.31
+  Hostname 192.168.1.32
   User pi
   IdentityFile ~/.ssh/rpi_key
   IdentitiesOnly yes
@@ -44,7 +44,7 @@ Host rpi1
   IdentitiesOnly yes
 ```
 
-- [ ] Cambio de configuración de red - IP estática
+- [x] Cambio de configuración de red - IP estática
 
 Modificamos el fichero `/etc/dhcpcd.conf` añadiendo al final
 
