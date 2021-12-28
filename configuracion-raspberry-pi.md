@@ -55,6 +55,8 @@ static routers=192.168.1.1
 static domain_names=192.168.1.1
 ```
 
+Reiniciamos la RPi para aplicar los cambios.
+
 ## Raspberry Pi 1
 
 La Raspberry Pi 1 tiene un único *core* ARM1176 (ARM v6.1) y 512 MB de RAM.
