@@ -104,7 +104,25 @@ Docker version 20.10.12, build e91ed57
 
 ## Raspberry Pi 2
 
-TO BE DONE
+La RPi 2 tiene 4 *cores* Cortex-A7  (ARM v7.1) y 1 GB de RAM.
+
+```ini
+Architecture:        armv7l
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+Vendor ID:           ARM
+Model:               5
+Model name:          Cortex-A7
+Stepping:            r0p5
+CPU max MHz:         900.0000
+CPU min MHz:         600.0000
+BogoMIPS:            38.40
+Flags:               half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm
+```
 
 ## Raspberry Pi 3
 
