@@ -103,7 +103,7 @@ Flags:               half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idi
 
 ## Raspberry Pi 3
 
-La RPi 3 tiene 4 cores Cortex-A53 (ARM v7.1) y 1 GB de RAM y conectividad WiFi.
+La RPi 3 tiene 4 cores Cortex-A53 (ARM v7.1), 1 GB de RAM y conectividad WiFi.
 
 ```yaml
 Architecture:        armv7l
