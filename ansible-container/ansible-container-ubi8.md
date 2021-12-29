@@ -1,4 +1,4 @@
-# Ansible en un contenedor
+# Ansible en un contenedor (partiendo de la imagen UBI8)
 
 El objetivo de este documento es describir cómo usar Docker para:
 
