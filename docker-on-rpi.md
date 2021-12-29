@@ -1,4 +1,4 @@
-# Instalación de Docker CE
+# Instalación de Docker CE en Raspbian OS
 
 Seguimos las intrucciones de la [documentación oficial de Docker](https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script) para instalar Docker CE en Raspbian (la recomendación es usar el *script* de conveniencia proporcionado):
 
