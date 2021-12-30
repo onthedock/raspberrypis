@@ -19,7 +19,7 @@ ssh-copy-id -i ~/.ssh/rpi_key pi@192.168.1.136
 
 Se ha generado el fichero `~/.ssh/config` para simplificar la conexión a las RPis:
 
-> (Se ha actualizado el *snippet* para reflejar las IPs finales de las RPis) 
+> (Se ha actualizado el *snippet* para reflejar las IPs finales de las RPis)
 
 ```ini
 Host rpi31
