@@ -1,5 +1,7 @@
 # Raspberry Pi 1
 
+> La RPi 1 dejó de funcionar el 31/12/2021 (el led rojo y el verde se iluminan, pero no muestra señal de vídeo).
+
 ## Instalación de Docker
 
 Se ha instalado Docker siguiendo las instrucciones recogidas en [Instalación de Docker CE en Raspbian OS](../docker-on-rpi.md)
